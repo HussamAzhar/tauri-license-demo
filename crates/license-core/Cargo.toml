@@ -1,0 +1,17 @@
+[package]
+name = "license-core"
+version = "0.1.0"
+edition = "2021"
+description = "Offline license verification: RS256 entitlement tokens, grace periods, machine binding and clock-rollback detection."
+license = "MIT"
+
+[dependencies]
+jsonwebtoken = "9"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+sha2 = "0.10"
+hex = "0.4"
+thiserror = "1"
+
+[dev-dependencies]
+base64 = "0.22"

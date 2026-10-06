@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <style>.s{fill:#18232E}.k{fill:#1F43B8}@media (prefers-color-scheme:dark){.s{fill:#E4EAE5}.k{fill:#8EA4F2}}</style>
+  <path class="s" d="M4 4h16l-3.5 16h-9z"/>
+  <circle class="k" cx="12" cy="10" r="2.2" fill="#EEF1EC"/>
+  <path class="k" d="M10.9 11.5h2.2l.6 4.5h-3.4z"/>
+</svg>
